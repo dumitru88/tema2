@@ -1,0 +1,59 @@
+
+     			body
+				  {
+				  	background-color: BurlyWood;
+				  	text-align: center;
+				  	font-size: 30px;
+
+				  	}
+				  	
+				
+				h1 {
+					font-size: 24px;
+					text-align: right;
+					color: red;
+					font-family: courier;
+				  }
+
+				h2 {
+					font-size: 24px;
+					text-align: center;
+					color: blue;
+					font-family: verdana;
+				}
+
+				h3 {
+					font-size: 24px;
+					text-align: left;
+				 	color: red;
+				 	font-family: Comic Sans MS;	
+				 } 
+
+				h4:hover { 
+					transform: rotate(180deg); 
+				}
+
+				a1 {
+					font-size: 45px;
+					color: Brown;
+					text-shadow: 10px 20px 30px black;
+				}
+				h5 {
+					position:relative;
+					height:0;
+					padding-bottom:56.25%;
+					position:absolute;
+					width:50%;
+					height:50%;
+					left:25%
+
+				}
+				 a2:hover
+				 	{
+				 	color: green;
+				 }
+
+				a {
+					color: green;
+					text-decoration: none; 
+				}
